@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3E2D561C-74EF-47F9-8CD0-673883A175B5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Postcardr</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>70AE25E827FDF30A6C6F8AF2C256740C1DDC3F9C</key>
+		<string>https://github.com/kangomedia/Postcardr</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Postcardr.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>70AE25E827FDF30A6C6F8AF2C256740C1DDC3F9C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kangomedia/Postcardr</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>70AE25E827FDF30A6C6F8AF2C256740C1DDC3F9C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>70AE25E827FDF30A6C6F8AF2C256740C1DDC3F9C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Postcardr</string>
+		</dict>
+	</array>
+</dict>
+</plist>
